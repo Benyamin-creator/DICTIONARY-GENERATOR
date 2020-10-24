@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# GDFB.py
+# DICTIONARY-GENERATOR.py
+
 
 import os
 import sys
