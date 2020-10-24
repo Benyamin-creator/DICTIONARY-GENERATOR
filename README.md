@@ -14,6 +14,8 @@ of social networks, etc.
 
 # git clone https://github.com/Benyamin-creator/DICTIONARY-GENERATOR
 
+# We enter the directory with:
+ 
 # cd DICTIONARY-GENERATOR
 
 # We give permissions with:
